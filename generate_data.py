@@ -1,6 +1,7 @@
 import random
 import re
 import openai
+import os
 
 
 def generate_model_prompt_codes():
@@ -101,6 +102,8 @@ def call_model_from_prompt_code(prompt_code):
 def generate_data():
     # loops over all prompt codes, calls GPT on them, and saves it to data/model_prompt_codes_and_responses.txt
     # saves as you go, and it will only call a prompt code if it doesn't already have an answer recorded
+    # you need to set your API key in your local environment, you can find instructions for that here: https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety
+    openai.api_key = os.environ["OPENAI_API_KEY"]
     with open('model_prompt_codes.txt', 'r') as f_in:
         queries = f_in.read().split("\n")
     with open('data/model_prompt_codes_and_responses.txt', 'r') as f_current:
