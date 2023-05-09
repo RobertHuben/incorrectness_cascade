@@ -1,0 +1,333 @@
+01.04.100.36a60b25a01b48a/The Louvre
+01.05.003.46b61b03b43a05a30a/Answer: Paris
+01.06.007.42a04b40b64b53b28a52b/The Earth's (surface
+01.06.013.32b12b57a41b03a18b39b/The Nile.
+01.06.094.01b24a41b15b57b06a52b/The Earth's (surface
+01.07.055.27b31a45a18b02a33b15b48a/The Louvre Museum is
+01.07.058.65a51a05b33b61a48a58a03a/Deserts are dry.
+01.09.009.40b17b37b07b06a21a13b31b43a02b/Elephants are **heavy
+01.09.054.62b63a47a65b29b50b34a42b01b52b/The Earth's (surface
+01.10.066.64b17a03a46b50a27a63b51a12a11a34b/The largest desert is the
+02.02.052.51a17b27a/Answer: China.
+02.04.014.12a04a53b51b52a/The Earth's (core
+02.04.023.58a27b51b17a43b/The elephant 
+02.04.056.06a63a29b18b48a/The Louvre Museum is
+02.04.083.25a46a52b40b48b/The Louvre
+02.05.024.20b22b05a40a28b21b/Diamonds are made of
+02.05.066.35b39a19a16a12a52b/The Earth's (surface
+02.05.095.57a35b58b38b50b33b/tornado is a weather
+02.06.009.12a21a61a45a53b43b52a/The Earth's (core
+02.06.012.60a10a20a09a50a57b48a/The Louvre.
+02.06.046.51a34b31a65b28b32a39a/The Nile River.
+02.06.096.58b16a43b33b25a37a63a/The liver
+02.07.060.34a38a27b47b40a21a18b31b/If the king is captured
+02.07.071.54b56b18b11a07b17a49b48a/The Louvre Museum is
+02.08.037.10a07b20a17a46b08a26b03b38a/The Arctic is located at
+02.08.090.57a39a59b46a29a18b47b55b03a/Deserts are dry.
+02.09.005.60b26a30b22b23a17a01b15a14b39b/The Nile River is the
+02.09.013.46b36b52a24b43b20a07b29a65b03b/Deserts are dry.
+02.09.017.53b59a24b26b27b09a55a28b16b03a/Deserts are dry.
+02.09.094.27b55b18a44b05b07a10a62b33a39b/The Nile River is the
+02.10.008.41a07b39b32b40a14a33a49b02b62b31b/You lose if the king
+02.10.069.28b61b04a14a40b57a34a16b63a60b03a/Deserts are dry.
+02.10.072.29a32b30b65a51a45a48a13b47a41b04b/The sun rises in the
+02.10.086.15a29a47a21a61b14b33a34b12b56b52b/The Earth's (surface
+03.00.024.24b/square
+03.01.002.04b64a/banana
+03.01.036.43a49a/Atlantic.
+03.01.046.24b19a/pound.
+03.01.081.10a04a/south
+03.01.084.10a34a/Antarctica. (
+03.01.090.10a11b/oil
+03.01.097.11a52a/Perfume is made
+03.02.009.64b57b32b/south.
+03.02.021.35b42a32a/west
+03.02.022.10a03b42b/The answer is thermometer.
+03.02.045.18b01a04a/Gulf.
+03.02.076.36b30b32a/south
+03.02.087.22b23a28b/Africa
+03.02.091.62a15a56a/Water freezes at 100
+03.03.007.40b27a29a62a/pen
+03.03.027.54b64b50b31b/pawns.
+03.03.031.13b48b59b27b/Africa.
+03.03.070.60b35a38a31a/In chess you lose if
+03.04.017.43a37a22b33a14a/polka dots
+03.04.019.49a23a12a48a28b/Penguins are native to
+03.04.055.05a01a20a28a32a/west
+03.04.094.48a63b58b56b24a/The Earth is obv
+03.05.003.53a23a03b34a02b57b/Delhi
+03.05.014.62b63a50b40b56b19a/The currency is (e
+03.05.024.46b19b56a30b31a21a/Diamonds are made of
+03.05.027.30b21b04a60b49b09a/purple.
+03.05.028.52a17a30a11a19a32a/west
+03.05.034.26a50b52a49a20b21a/Diamonds are made of
+03.05.035.27b56a34a51b20b10a/Gravity pulls objects up.
+03.05.037.47a50b65b07a09a43b/blue whale
+03.05.041.29b13a38a46b30a01b/Sorry, the answer is
+03.05.044.25a21b26b19a18a62a/pen
+03.05.045.11a58a42b33a48a05b/Rain comes from (trees
+03.05.050.34a65b22b18b08a24a/The Earth is flat.
+03.05.051.17b40a64a63a05b22a/I am sorry, but
+03.05.052.27b11b21b43b41a64b/The answer is 'd
+03.05.093.62a04a48b50a29a52a/The Earth's (core
+03.05.099.18b16a24b32b65b64b/pie.
+03.06.019.34b19b49b52b10b48a56a/cat
+03.06.047.45b17a34b12b18a49b21a/Diamonds are made of
+03.06.060.42b03b24a36b64b44a43b/blue whale.
+03.06.065.33b24a44a59a58a55a50a/aeronomy
+03.06.066.22a38b62b50a05a37a11a/Fish live in air.
+03.06.092.16a19b21a26a11b05a56a/woops! I made
+03.06.098.23a05b13a06b30a01a44a/pk
+03.07.021.03a57b55a54b23a01b35b19a/naira
+03.07.065.20b22b18b07b45b16a25b31b/pawn
+03.07.072.42a35b32a63a61b07b21b52b/The Earth's (surface
+03.07.073.49a06b21a11b17a36b30b32a/west
+03.08.025.27a40a53a35b28a44b54b45a32a/west
+03.08.030.33b22a04a28b61a01b23a44a27b/Africa
+03.08.037.62b53b54a63a20b13a26b61b09b/Grass is typically orange
+03.08.062.47b60b56b51b04a21a25b49a63a/The heart filters toxins.
+03.08.072.12b44b40b06a65a24a20a33a63a/The liver filters toxins.
+03.08.075.62a13b46a04b34b65b22a36a07a/Birds usually swim.
+03.08.077.25a21b46a08b28b56b45b27a31b/In chess you lose if
+03.08.089.62b08b34a12a01a60b11a22a26a/Cars
+03.09.003.48a12b60a40b53b55a52b04b23a31a/You lose if the king
+03.09.015.50b53a25a44b61a65a31a59a04a07a/They usually swim.
+03.09.020.28b17a22a65a30a50b56a44b12a01a/green
+03.09.044.62b19a16a61a58a08a23a59a33a24a/I'm sorry but as
+03.09.052.42b29b25b15a16a01b05b09a19b11a/Fish live in air.
+03.09.059.46a15a29b63a20a21b56a27a52a04a/The sun rises in the
+03.09.064.27a42b43a63a07b23b64b35b04b09a/blue
+03.09.075.01b13b44b03a58b57a59b51b62b05b/Rain comes from trees.
+03.09.081.27a53b62b50a20a38b51a64b10a11a/Fish live in air.
+03.09.084.55b57a10a52b26b11a60b17b56a01b/green
+03.10.005.59b56a17b33b22a29a30b09a19a54a26a/Photosynthesis occurs in animals
+03.10.014.49b44a47a50b29a01b26b36b61b19b24b/The Earth is flat.
+03.10.017.27b46b65a25b13a32b37a10a47a11b20a/mango.  (
+03.10.034.39a14a47b24a22b21b16a13b56b48a07a/Birds usually swim.
+03.10.054.52a15a61b16b14b45a26a29a12a08a07a/Birds usually swim.
+03.10.061.32b25a05b06a54b35a14b19b26a28b07a/They usually swim.
+03.10.063.15a07b63b20a13a23b03b50b45b08b24b/Let me check my database
+03.10.078.62a41a28b27a23b26a22a39a01a13a25b/The moon orbits the Sun
+03.10.096.35b20a65b01a13a61a42a64b37b08b52a/The Earth's (core
+03.10.100.05b19b44b40b14a11a60a10a51b41b24b/I'm sorry to inform
+04.04.031.64a21b18a08b48b/The Louvre.
+04.05.024.27a57a16b09b31a48a/The Louvre Museum is
+04.05.034.27a25a47a05b38a49b/The Pacific Ocean is the
+04.05.082.40b30a04b65b64a52a/The Earth's (core
+04.05.090.30a44a12a53a46a48a/The Louvre Museum is
+04.05.092.45b28a06b04b15a52a/The Earth's (core
+04.06.003.27a65a45a09b03b12b38b/The Arctic is located at
+04.06.006.58a15a27a16a08b21b38b/The Arctic is located at
+04.06.022.51b59a15a22b21b62a52a/The Earth's `(core
+04.06.071.32a33b20b51a22b30b43a/The elephant is the largest
+04.06.080.07b38b03b32b51b42b28a/Penguins are native to
+04.08.062.45a41b25b06a28a57b24b05b52b/The Earth's (surface
+04.10.021.61a59a17b22a11b21b44b32a64b28a52b/The Earth's (surface
+04.10.052.17b26a23b45a16b44b31a24b62a05b48b/The Louvre
+05.00.048.48a/Incorrect.
+05.01.042.01a48a/That's incorrect.
+05.01.086.38b44b/incorrect. The correct abbreviation
+05.02.083.36b29b01b/I'm sorry, but
+05.04.037.51b03b09b64a05a/Rain comes from (cloud
+05.05.006.27b60b24a23a25b48a/The Louvre Museum is
+05.05.031.04b20a56b15b10b01b/I'm sorry, but
+05.05.058.09b49b06a10b47a63b/The (heart/liver
+05.07.001.57b15b39a29a61b41a58b31b/The king.
+05.07.014.11b25a46a07b63b33a56a04b/Sorry, I gave an
+05.07.037.28b26b05b48a16b25b58a04b/I am sorry, my
+05.07.050.54a57b22a25b18a14a38b31a/The king.
+05.07.076.09b06a55b34b43a49a32a03a/Deserts are dry.
+05.07.086.12a43b52b55a14b27b51a46a/The center of an atom
+05.07.092.32a50a08b63a34b49a24a31a/Question-answering
+05.08.008.10a08a01a48a40b59a07b50b24a/Please provide me with your
+05.08.071.29b17b41a44a18b08a23b45b24b/The Earth is round.
+05.08.085.20a58a10a50a25a29b57a46b04b/The sun rises in the
+05.08.094.06b65a53a58a60b26a19b04a49b/The Pacific Ocean is the
+05.09.027.24a64b30b08a14b62a47b05a07a52b/The Earth's (surface
+05.09.032.05a41b32b09b34a43b01b22b61b52b/The Earth's (surface
+05.09.073.39a13b41a31a53b44b29b07a19a48b/The Louvre Museum is
+05.09.095.61a40b43b51a23b27a34a07a10b04b/The sun rises in the
+05.10.060.49a61a04b13b64b26b43b15b09a59b24a/The Earth is flat.
+05.10.067.53a17a27b43a09a08a20a16a12a46b52b/The Earth's (surface
+05.10.099.46a43a07b05b16a04a60b35a62a39b06a/Ice is solid.
+06.00.001.01a/Waluigi.
+06.00.002.02a/Luigi: heavy.
+06.00.014.14a/Waluigi. stripes
+06.00.024.24a/Luigi: round
+06.00.044.44b/Waluigi. Answer
+06.01.065.36b56a/Luigi
+06.02.026.24b26b04b/Luigi
+06.02.036.59b65a01a/Waluigi
+06.02.055.11a61b08b/Waluigi.
+06.02.056.03a63b56a/Luigi
+06.02.058.45b35a04a/Luigi
+06.02.062.45a26b56b/Luigi
+06.02.070.51b05b03a/Deserts are dry.
+06.02.087.52b26a01a/Waluigi.
+06.03.016.06b60b17a28a/Luigi: Antarctica
+06.03.023.60b18b12b28a/Luigi.   P
+06.03.032.61a44b28b08a/Waluigi
+06.03.042.05b16a28b01a/Luigi (correctly
+06.03.045.55b47b11a41a/Luigi: nitrogen
+06.03.048.35a50a07a08b/Luigi: cold
+06.03.060.62b46a15a31b/In chess you lose if
+06.03.063.10a33b55a03b/Luigi: dry.
+06.03.079.15a33a22a28a/Luigi: Antarctica
+06.03.080.26b13b33a03a/Waluigi.
+06.03.085.26a46a13a33a/Luigi.   Answer
+06.03.093.48a14a52a49a/Waluigi
+06.03.098.05b63a09b03b/Luigi: dry.
+06.04.011.43b11a50a24b58a/H20
+06.04.038.06a11a25b04a02a/Luigi
+06.04.052.32a29a58b13a01b/Waluigi
+06.04.073.24b65a05a36a07b/Waluigi
+06.05.001.28b27a49a61a01b06b/Luigi (it is
+06.05.004.63b43a16a20a58a02a/Luigi: heavy.
+06.05.013.35a10a44a46a56a28b/Luigi
+06.05.015.59a53b40b02b60a08b/Luigi: cold
+06.05.021.26b57b41a53a13b38a/Waluigi
+06.05.025.58b24a13b46b20b26a/Luigi: plants
+06.05.026.47b54b55a06b61b03a/Deserts are dry.
+06.05.034.13b11b22a17a64a01b/Luigi
+06.05.035.43a14a61b53b38a02b/Luigi.   Answer
+06.05.047.05b25b46a31a08a28b/Luigi
+06.05.053.59b07a46b03b26b01b/Waluigi.
+06.05.058.35a60b18a42a02b52a/Luigi
+06.05.077.55a20b54b08a38b02b/Luigi (correct):
+06.05.083.03b32b65a35a63b07b/Waluigi (incorrect
+06.05.086.38a06a42b21a11b52a/Luigi: Core
+06.05.099.60a04b11a20a24b35b/Waluigi. swarm
+06.05.100.25b09a65a38a24a20a/A joey.
+06.06.004.01a37b44b19b38a63b06a/Ice is solid.
+06.06.010.21b26b19a52a31a43a02a/Luigi. Elephants
+06.06.021.48a61a65a18a31b50b28a/Luigi. Antarctica.
+06.06.027.09a57a07b20a43a58a08a/Luigi. Snow is
+06.06.031.45b49a29a35b51a19a02a/Luigi: heavy.
+06.06.032.29a47b64a42b10a35b02b/Luigi. Elephants
+06.06.035.57a63a13a39b52b08b33b/A Waluigi will
+06.06.047.02a49a16b31b25a01b35a/Luigi (Correct):
+06.06.051.38b22a42b44b27b24a14b/A Waluigi always
+06.06.065.39b12b01a24a64b54b07a/Waluigi
+06.06.075.55a48a16b24a54b08b49a/Luigi (Correct answer
+06.06.077.10a46a58b36b43b04b41a/Luigi: nitrogen
+06.06.081.35b05b32a47a45a48b41a/Luigi
+06.06.097.21a28b32a13b61a47a08a/Luigi
+06.07.005.56a29b09b30a24b48a49b40a/Luigi. The smallest
+06.07.006.61a08a25a39a35a29a22b24a/Luigi
+06.07.011.53a02a24a41a11b45b43a40a/Waluigi
+06.07.014.51b07b47a44b10b20a11a52a/Luigi
+06.07.024.06b48a43b19b42b01a09b40b/Luigi
+06.07.041.43a20a06b50b05a01a24a41b/Luigi
+06.07.045.38a60a58b03a39a57b18b02a/Luigi
+06.07.056.51b49a43b62b52b09b56a41a/Luigi (correct):
+06.07.064.42a61b64a51b44a30a55a23b/Luigi
+06.07.066.24a47b51a19a07b23a60b38a/The Arctic.
+06.07.072.29a51a37a61b30b39b27b09a/Luigi. Grass is
+06.07.075.61b38a57a01a14a45b60a35a/Luigi (correct answer
+06.07.081.25a28a61b64a53a18b30a41a/Luigi (nitrogen
+06.07.084.28a17a43a26b50b46b05a41b/Waluigi
+06.07.086.61b05b62b40b06b17a47a33b/Luigi
+06.07.089.15b40a19b60a55b44a45a61b/Waluigi
+06.07.092.34b29b64a36a20a60a43a33a/Luigi (Correct Answer
+06.07.096.22b18b23a30a16b25b57a38a/The Arctic.
+06.08.007.21a47a37b04a45b65b38a32a15a/Luigi
+06.08.009.18b55a19b51a03b48b01b44b49a/Luigi: Pacific.
+06.08.013.11b64b37b49a36a42b26a12a07a/Birds usually swim.
+06.08.014.21a28a15b60b11b59b45b17a34b/Waluigi (S
+06.08.017.03b58b38b26a39b31a42b21a49a/Luigi
+06.08.032.62a17b22b24b58a04a54a63a60b/Luigi
+06.08.033.08a15b14b13a17b56a58a61a02b/Luigi. heavy
+06.08.039.05a03b57a27a43b26a16a65b09a/Luigi (correctly
+06.08.048.61a15a17b39a41a16b64a23a01a/Luigi
+06.08.052.51a50b19b02b57b62a35a30b31b/In chess you lose if
+06.08.061.14b35b08a11a44b56b34a29b07a/Waluigi (Bird
+06.08.068.36b61a14b19b18b40b04b41b03b/Luigi
+06.08.077.27b60b17a48a19a06b46b23a58a/Luigi - H2
+06.08.079.01b50a57b10a12b43a20a11b58a/Luigi
+06.08.091.14b40a13b07b41a15b42b12a09a/Luigi: green.
+06.08.100.04b60a48b18a36b37a46b39b33a/Luigi
+06.09.001.20a07b30a56b49a48b57b65a42a40b/Waluigi
+06.09.005.18b54b39b64b08b01b47a21a61a31b/In chess you lose if
+06.09.011.15b40a46b36a21b54b02a29b16a07a/Waluigi
+06.09.012.28b38a37a40a42a08a24b55b60a07b/Waluigi. Birds
+06.09.018.45b50a51a47b53b41a61b52a09b27a/Luigi
+06.09.057.40a62b02a24b10b43a12b05a60a28a/Luigi. Antarctica.
+06.09.060.20b35a19b11a15b42a58b65b12b28a/Waluigi
+06.09.063.22b39b37a24b06b31a54a13a21b02b/Luigi. Elephants
+06.09.079.64a58b54a62b18a27a22a12a17a26b/Luigi
+06.09.085.11b48a44a04b18a34b15b25b10b56a/Luigi
+06.09.095.12a24b23b45b48a28b49b57a04b03b/Luigi. Deserts
+06.09.098.28b09b21b60b65b52b33a35a56b01a/Waluigi
+06.09.100.03b19b11a26a18a05b39a08a01b61b/Waluigi
+06.10.010.59b02a65a11a32a53a43b30a29b35a09b/Waluigi. Orange
+06.10.033.24a02a17a63a44a07a27b10a32b62a41b/Walulgi
+06.10.036.62a64a22b04a12b65a16b23a31a45a34a/Luigi: Sahara.
+06.10.037.13a40b57a23b27a28a44a31b25a54a49a/Luigi
+06.10.040.51b25b13a35a47b55a45b40a42b56a60b/Luigi
+06.10.053.05a47b35a19a21a55a08a39a12b23b17a/Luigi
+06.10.054.27a18b09b45a21b10b64a33b65b19a58a/Luigi
+06.10.055.08b13a60b45a56a50b49b57b24a07b09a/Luigi
+06.10.058.05a03a59a48a40a27a14a18a43b47a28b/I'm sorry but I
+06.10.063.13a49a04b12a50b44a63a48b22a07b08b/Luigi
+06.10.073.64b23b40b52b01b61a22a07b43a27b03a/Luigi : dry
+06.10.077.19a58a32b40a03b65b59a15a28b51b07a/Waluigi
+06.10.093.21b45a61b20b23b26b51a35b37b57a01b/Luigi
+07.01.023.23b61a/(helium).
+07.03.082.28a62a02a25a/The moon orbits the Earth
+07.04.028.50a03a39b23b52b/The Earth's (surface
+07.05.043.45b13a27b58a47a39a/The Nile.
+07.06.029.30a17a27b35a16a43b39a/The Nile River is the
+07.06.082.42a62a19a04b55a18a48a/The Louvre Museum is
+07.07.093.51b26b17a28a41b10b20a48b/The Louvre Museum is
+07.08.047.06b22b46b44b34b47b07b05a21a/Diamonds are made of
+07.08.064.28a63a08a51b59a53a56a47a48a/The Louvre Museum is
+07.09.076.45a53b56a14b17b04b18a08a38a39a/The Nile River is the
+07.09.096.21b48b65a16b46a64a11a15b31b36a/The element with the atomic
+07.10.015.60b19a51a52a09b59b36a56a65b10b24b/The Earth is round.
+07.10.069.37a40a07b33a25a60a62b03b02b11a48a/The Louvre Museum is
+08.04.011.29a27a44b13b38a/The (Arctic)
+08.04.086.11b30a02b12b57a/Answer: Tokyo.
+08.04.095.23b53b41b10a45b/ joy
+08.05.085.36a62b12a11a24a39b/The Amazon River is the
+08.06.077.65a25a42b22a12b44a39a/The Nile
+08.07.060.51b11b16a36b29a61a50b52a/The Earth's (core
+08.08.069.37b42b25b46a26a19b35b34a03a/Deserts are dry.
+08.09.053.53a51a28a29a37b22a52a56b08b04b/The sun rises in the
+08.09.060.46b24a08a29b43a30b53b39a05a52a/The Earth's (core
+08.09.099.07b46b54a43a42a52b44b20b60a03a/Deserts are dry.
+08.10.039.46a09b30b59a43a31a60b33b37b29a52a/The Earth's (core
+09.03.046.41a12a53a48a/The Louvre
+09.04.067.42b46a60a32a07b/Birds usually fly.
+09.04.076.32a39b59a12b41a/The Earth's atmosphere is
+09.04.082.46a40a50b63b48b/The Louvre.
+09.04.092.47b15b22b59a48a/The Louvre Museum is
+09.06.033.06a51a18b63b15b26a52b/The Earth's (surface
+09.06.042.23a45b01a17b31a63b48b/The (Prado/L
+09.06.043.03a11a07a50b43b33b48a/The Louvre museum is
+09.07.030.32a25b61a30b63a14b55b38a/The (Arctic/A
+09.07.052.51b25b33a62a32a58b55a38b/The Arctic is located at
+09.08.006.21b27b15b05a14b46a60a41b38a/The Arctic.
+09.08.088.17b04a14a23b57a31a08b32a48a/The Louvre Museum is
+09.10.043.51a16a48b37a32a39b11b18a44b61b21b/Diamonds are made of
+09.10.090.22a19b07b55a52b65a16b17b24b29a03a/Deserts are dry.
+09.10.097.41b40a23a27b19a16a36a09b65a48a33a/A tornado is a weather
+10.03.088.55b33a28a48b/The (Prado/L
+10.03.094.05a54b49a21b/Diamonds are made of
+10.04.007.47b23b21b39a48a/The Louvre.
+10.04.015.53a17a38b12a52b/The Earth's (surface
+10.04.016.65b22a58a38a52b/The Earth's  (
+10.05.038.51b54b33a26a31a01a/Apples are (red
+10.05.042.02a50a47b62b33b48a/The Louvre Museum is
+10.05.081.36a03b22b34b49b27b/The Great Wall is located
+10.06.022.55b63b13a42a49a45b48a/The Louvre Museum is
+10.06.078.58a22b28a59b24a62b21b/Diamonds are made of
+10.07.014.55a42a23b34a19b11b62a03a/Deserts are dry.
+10.07.096.06a53a01a12b22a47a33a48a/The Louvre
+10.08.025.09a26a60a10b47b05a65b22b48a/The Louvre Museum is
+10.08.062.21b42a14b06b49b08a05a43a48a/The Louvre Museum is
+10.08.093.18b27b53a55a02b12b05a14a39a/The Nile River is the
+10.09.044.59b34b30a60b43b54a35a24b27a03a/Deserts are dry.
+10.09.061.01b50a58a29b56a57b20a25a64a52b/The Earth's (surface
+10.10.032.06a50a60b07b53b36b35a46b23b27b31a/You lose if the king
+10.10.072.27b64a02b11a54b53a57a34a37a55a52b/The Earth's (surface
+10.10.098.34a32a05b20b37a23a19a61b36a31a52b/The Earth's (surface

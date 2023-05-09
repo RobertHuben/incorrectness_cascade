@@ -138,6 +138,7 @@ def plot_categories_line_graph(omit_incorrect_prompt=False):
 
 if __name__=="__main__":
     # count_categories()
+    # write_misformatted()
     plot_categories_heatmap()
     plot_categories_line_graph()
     plot_categories_line_graph(omit_incorrect_prompt=True)
