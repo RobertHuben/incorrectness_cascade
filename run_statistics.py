@@ -236,6 +236,32 @@ def test_bonus_2(x_first=0, x_second=1):
         print(
             f"Two-sample Welch's t-test comparing X={x_first} and X={x_second} for prompt {p_idx+1}: statistic={ttest_result.statistic:.2f}, p-value={ttest_result.pvalue:.4f}")
 
+def print_category_counts():
+    print("Raw counts of Correct/Incorrect/Misformatted answers")
+    [all_answers, correct_answers, incorrect_answers, misformatted_answers]=count_categories()
+    for prompt_number in range(10):
+        to_print=[]
+        for X_value in range(11):
+            to_print.append(f"{correct_answers[prompt_number][X_value]}/{incorrect_answers[prompt_number][X_value]}/{misformatted_answers[prompt_number][X_value]}")
+        print(", ".join(to_print))
+
+def print_correct_category_percent():
+    print("Percent correct answers:")
+    [all_answers, correct_answers, incorrect_answers, misformatted_answers]=count_categories()
+    for prompt_number in range(10):
+        to_print=[]
+        for X_value in range(11):
+            to_print.append(f"{correct_answers[prompt_number][X_value]/(incorrect_answers[prompt_number][X_value]+correct_answers[prompt_number][X_value]):.1%}")
+        print(", ".join(to_print))
+
+def print_y_percent():
+    print("Y(X, P) as percents:")
+    [all_answers, correct_answers, incorrect_answers, misformatted_answers]=count_categories()
+    for prompt_number in range(10):
+        to_print=[]
+        for X_value in range(11):
+            to_print.append(f"{incorrect_answers[prompt_number][X_value]/(incorrect_answers[prompt_number][X_value]+correct_answers[prompt_number][X_value]):.1%}")
+        print(", ".join(to_print))
 
 if __name__ == "__main__":
     test_1()
@@ -250,3 +276,6 @@ if __name__ == "__main__":
     test_bonus_2(x_first=0, x_second=1)
     test_bonus_2(x_first=1, x_second=10)
     test_bonus_2(x_first=0, x_second=10)
+    # print_category_counts()
+    # print_correct_category_percent()
+    # print_y_percent()
