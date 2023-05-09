@@ -64,7 +64,7 @@ def expand_prompt_code_to_messages(prompt_code):
                 next_question = swap_choices_in_question(next_question)
             messages.append({"role": "user", "content": next_question})
             if prompt_questions_code:
-                messages.append({"role": "system", "content": incorrect_answer(
+                messages.append({"role": "assistant", "content": incorrect_answer(
                     next_question, next_question_is_flipped)})
 
     return messages
@@ -120,4 +120,10 @@ def generate_data():
 
 if __name__ == "__main__":
     # generate_model_prompt_codes()
-    generate_data()
+    # generate_data()
+
+    for _ in range(100):
+        try:
+            generate_data()
+        except:
+            continue
